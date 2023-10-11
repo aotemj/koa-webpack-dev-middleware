@@ -1,7 +1,7 @@
 {
-  "name": "koa-webpack-dev-middleware",
-  "version": "2.0.2",
-  "description": "webpack dev middleware for koa",
+  "name": "koa2-webpack5-dev-middleware",
+  "version": "1.0.0",
+  "description": "webpack dev middleware for koa2 and support to webpack5",
   "keywords": [
     "koa",
     "webpack",
@@ -11,14 +11,14 @@
   "files": [
     "src"
   ],
-  "homepage": "http://github.com/yiminghe/koa-webpack-dev-middleware",
-  "author": "yiminghe@gmail.com",
+  "homepage": "http://github.com/aotemj/koa-webpack-dev-middleware",
+  "author": "losidkl@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:yiminghe/koa-webpack-dev-middleware.git"
+    "url": "git@github.com:aotemj/koa-webpack-dev-middleware.git"
   },
   "bugs": {
-    "url": "http://github.com/yiminghe/koa-webpack-dev-middleware/issues"
+    "url": "http://github.com/aotemj/koa-webpack-dev-middleware/issues"
   },
   "engines": {
     "node": ">=7.6.0"
@@ -28,6 +28,6 @@
   },
   "licenses": "MIT",
   "dependencies": {
-    "webpack-dev-middleware": "^1.10.0"
+    "webpack-dev-middleware": "^6.1.1"
   }
 }
